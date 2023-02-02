@@ -9,9 +9,9 @@ from nltk.tokenize.treebank import TreebankWordDetokenizer
 #section = str(input("What type of 'section' is the interview? Choose from: Q_AND_A or PREPARED_REMARKS: \n"))
 section = 'Q_and_A'
 
-DEEPGRAM_API_KEY = 'ddabd865a664dcc14f0f5f7adf3822359044eba1'
+DEEPGRAM_API_KEY = '' # Add your Deepgram's API key here
 try:
-    FILE = 'pre-collapse.mp3'  #'AAPL_2021-04-28_2100_VENDOR_TRIMMED.mp3' #
+    FILE = ''  #Add your MP3 file here
     MIMETYPE = 'audio/mp3' #wav
 except:
     FILE = str(input("Drag the audio file or enter its pathname: \n"))
@@ -148,9 +148,8 @@ async def main():
             )
 
     print(df)
-    df.to_csv('delete.csv')
+    df.to_csv('example.csv') # Change the name of your CSV here
 
-    #df.to_json('sentence.json', orient='index')
     json_data = df.to_json(orient='index')
     json_data = json.loads(json_data)
 
