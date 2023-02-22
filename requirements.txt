@@ -1,0 +1,4 @@
+pandas==1.5.3
+asyncio==3.4.3
+nltk==3.8.1
+deepgram-sdk==2.3.0
