@@ -1,0 +1,444 @@
+{
+  "statements": [
+    {
+      "speaker": "Tejas Gala",
+      "section": "INTRO",
+      "statement": "",
+      "type": "CALIBRATION",
+      "start": 19,
+      "stop": 79,
+      "customerStatementId": "0b8ba1ce-7c6c-42d9-be6b-61f5336747cb",
+      "customerSpeakerId": "bbe953e1-2445-4c41-9281-f6d0100fd29b"
+    },
+    {
+      "speaker": "Tim Cook",
+      "section": "PREPARED_REMARKS",
+      "statement": "",
+      "type": "CALIBRATION",
+      "start": 79,
+      "stop": 754,
+      "customerStatementId": "8495e5fc-c16f-4b7a-b4d6-2b317d31cce3",
+      "customerSpeakerId": "c7df068c-cd3c-4ff1-8a4a-b9af2c9804e3"
+    },
+    {
+      "speaker": "Luca Maestri",
+      "section": "PREPARED_REMARKS",
+      "statement": "",
+      "type": "CALIBRATION",
+      "start": 754,
+      "stop": 1420,
+      "customerStatementId": "8b6f756c-76f6-4f81-b717-6a13cfb4ad5c",
+      "customerSpeakerId": "9e8eef53-d22f-42ce-93cb-246153fb21ac"
+    },
+    {
+      "speaker": "Tejas Gala",
+      "section": "PREPARED_REMARKS",
+      "statement": "",
+      "type": "CALIBRATION",
+      "start": 1421,
+      "stop": 1427,
+      "customerStatementId": "7730fc51-65f2-47f3-a365-28a9e98fc231",
+      "customerSpeakerId": "bbe953e1-2445-4c41-9281-f6d0100fd29b"
+    },
+    {
+      "speaker": "Amit Daryanani",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "CALIBRATION",
+      "start": 1435,
+      "stop": 1463,
+      "customerStatementId": "12266f63-8947-4afe-bdc5-bd5a3ad72782",
+      "customerSpeakerId": "53b2ec75-9c09-42e3-9510-d5d6500a7ad2"
+    },
+    {
+      "speaker": "Tim Cook",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 1463,
+      "stop": 1504,
+      "customerStatementId": "922f319a-4159-4d2e-8ede-15a5659f1200",
+      "customerSpeakerId": "c7df068c-cd3c-4ff1-8a4a-b9af2c9804e3"
+    },
+    {
+      "speaker": "Amit Daryanani",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 1505,
+      "stop": 1525,
+      "customerStatementId": "6d876bd6-9964-4e86-937b-7486ccf94dfd",
+      "customerSpeakerId": "53b2ec75-9c09-42e3-9510-d5d6500a7ad2"
+    },
+    {
+      "speaker": "Luca Maestri",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 1526,
+      "stop": 1552,
+      "customerStatementId": "c10b1509-d128-4cca-af27-4c27350e8456",
+      "customerSpeakerId": "9e8eef53-d22f-42ce-93cb-246153fb21ac"
+    },
+    {
+      "speaker": "Tom Forte",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 1563,
+      "stop": 1581,
+      "customerStatementId": "94248137-d2e6-4f29-b843-ce1318260459",
+      "customerSpeakerId": "95462cf3-29ee-41d5-bf3b-843e3e2a0f01"
+    },
+    {
+      "speaker": "Tim Cook",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 1582,
+      "stop": 1633,
+      "customerStatementId": "cee2bcc4-de03-43cf-b28b-216f5c096b08",
+      "customerSpeakerId": "c7df068c-cd3c-4ff1-8a4a-b9af2c9804e3"
+    },
+    {
+      "speaker": "Tom Forte",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 1634,
+      "stop": 1649,
+      "customerStatementId": "5af34c01-2741-4aa9-a763-dae7b33e3d2b",
+      "customerSpeakerId": "95462cf3-29ee-41d5-bf3b-843e3e2a0f01"
+    },
+    {
+      "speaker": "Tim Cook",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 1650,
+      "stop": 1683,
+      "customerStatementId": "566e756d-193f-431a-bbaa-37e34d47fef4",
+      "customerSpeakerId": "c7df068c-cd3c-4ff1-8a4a-b9af2c9804e3"
+    },
+    {
+      "speaker": "Shannon Cross",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 1692,
+      "stop": 1716,
+      "customerStatementId": "4814dfc2-d5e7-444e-ab76-b7b81e4446cb",
+      "customerSpeakerId": "6ed11e31-134e-4d33-a6ad-30256abd1d30"
+    },
+    {
+      "speaker": "Tim Cook",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 1716,
+      "stop": 1960,
+      "customerStatementId": "fa7684f7-03fa-4f3d-abb7-d802240153b0",
+      "customerSpeakerId": "c7df068c-cd3c-4ff1-8a4a-b9af2c9804e3"
+    },
+    {
+      "speaker": "Shannon Cross",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 1960,
+      "stop": 1980,
+      "customerStatementId": "461483c9-86fb-4da0-863a-6827c8db1ada",
+      "customerSpeakerId": "6ed11e31-134e-4d33-a6ad-30256abd1d30"
+    },
+    {
+      "speaker": "Luca Maestri",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 1980,
+      "stop": 2023,
+      "customerStatementId": "f4ce2ae5-1e24-4261-ad95-18e35395ec45",
+      "customerSpeakerId": "9e8eef53-d22f-42ce-93cb-246153fb21ac"
+    },
+    {
+      "speaker": "Katy Huberty",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2034,
+      "stop": 2050,
+      "customerStatementId": "d42ce5a4-8ba7-436f-9f38-6e9ef1a739c3",
+      "customerSpeakerId": "e2d8ddfb-5d74-4d96-bc66-206f94b126aa"
+    },
+    {
+      "speaker": "Luca Maestri",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2051,
+      "stop": 2188,
+      "customerStatementId": "b502bb78-55b9-481f-8586-4b2ffb41c21c",
+      "customerSpeakerId": "9e8eef53-d22f-42ce-93cb-246153fb21ac"
+    },
+    {
+      "speaker": "Katy Huberty",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2190,
+      "stop": 2208,
+      "customerStatementId": "7956da3f-8b7a-438c-b589-1fe763c38fc9",
+      "customerSpeakerId": "e2d8ddfb-5d74-4d96-bc66-206f94b126aa"
+    },
+    {
+      "speaker": "Tim Cook",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2210,
+      "stop": 2235,
+      "customerStatementId": "376982d4-ce1d-4494-8869-66530ff3c5c4",
+      "customerSpeakerId": "c7df068c-cd3c-4ff1-8a4a-b9af2c9804e3"
+    },
+    {
+      "speaker": "Kyle McNealy",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2245,
+      "stop": 2271,
+      "customerStatementId": "8ae047ab-4eac-476f-a5c6-36b25c7ed5fa",
+      "customerSpeakerId": "1b4733fa-2e1d-4e72-b270-4be8978b3da4"
+    },
+    {
+      "speaker": "Tim Cook",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2272,
+      "stop": 2312,
+      "customerStatementId": "ede0c151-7dda-4f51-b435-3c7473dd83d1",
+      "customerSpeakerId": "c7df068c-cd3c-4ff1-8a4a-b9af2c9804e3"
+    },
+    {
+      "speaker": "Kyle McNealy",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2313,
+      "stop": 2338,
+      "customerStatementId": "da0d9512-5339-46db-bf94-ec2a543c83a2",
+      "customerSpeakerId": "1b4733fa-2e1d-4e72-b270-4be8978b3da4"
+    },
+    {
+      "speaker": "Tim Cook",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2339,
+      "stop": 2363,
+      "customerStatementId": "96b9567d-f45e-4a63-ace0-514765c2c0a1",
+      "customerSpeakerId": "c7df068c-cd3c-4ff1-8a4a-b9af2c9804e3"
+    },
+    {
+      "speaker": "Wamsi Mohan",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2372,
+      "stop": 2392,
+      "customerStatementId": "db724a9b-521a-47cf-8b36-e71cff9efcf8",
+      "customerSpeakerId": "e63f214b-3f3d-4f90-adba-44e0314a184b"
+    },
+    {
+      "speaker": "Tim Cook",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2394,
+      "stop": 2425,
+      "customerStatementId": "5cbee138-6396-40f1-9198-e6b7640bbf7b",
+      "customerSpeakerId": "c7df068c-cd3c-4ff1-8a4a-b9af2c9804e3"
+    },
+    {
+      "speaker": "Wamsi Mohan",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2427,
+      "stop": 2450,
+      "customerStatementId": "d121ba9d-f155-4e78-85fb-7210d20b3d5d",
+      "customerSpeakerId": "e63f214b-3f3d-4f90-adba-44e0314a184b"
+    },
+    {
+      "speaker": "Luca Maestri",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2450,
+      "stop": 2611,
+      "customerStatementId": "7edcfca0-cdef-4ca7-848b-f8a8e124aa32",
+      "customerSpeakerId": "9e8eef53-d22f-42ce-93cb-246153fb21ac"
+    },
+    {
+      "speaker": "Krish Sankar",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2620,
+      "stop": 2648,
+      "customerStatementId": "12a1292a-64e0-4784-b882-26c1b0610357",
+      "customerSpeakerId": "e7dcb1c4-e83b-4fb0-91ee-4d931d918c6f"
+    },
+    {
+      "speaker": "Tim Cook",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2650,
+      "stop": 2682,
+      "customerStatementId": "42e3f89a-2f83-4b46-8bd9-81273f77fecc",
+      "customerSpeakerId": "c7df068c-cd3c-4ff1-8a4a-b9af2c9804e3"
+    },
+    {
+      "speaker": "Krish Sankar",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2683,
+      "stop": 2704,
+      "customerStatementId": "2bc99ac4-f883-4748-961f-8b4b897f2132",
+      "customerSpeakerId": "e7dcb1c4-e83b-4fb0-91ee-4d931d918c6f"
+    },
+    {
+      "speaker": "Luca Maestri",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2704,
+      "stop": 2794,
+      "customerStatementId": "231fc9af-1237-4c25-a697-62e7e1fdf8a6",
+      "customerSpeakerId": "9e8eef53-d22f-42ce-93cb-246153fb21ac"
+    },
+    {
+      "speaker": "Mike Olson",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2803,
+      "stop": 2830,
+      "customerStatementId": "635cf234-2037-40f4-9b78-4ca77219cd0d",
+      "customerSpeakerId": "63aa1fa8-ee12-414b-ad0a-80b6caaeabc7"
+    },
+    {
+      "speaker": "Tim Cook",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2831,
+      "stop": 2873,
+      "customerStatementId": "fb22fead-5e40-4327-9d4f-f9940cbae1f6",
+      "customerSpeakerId": "c7df068c-cd3c-4ff1-8a4a-b9af2c9804e3"
+    },
+    {
+      "speaker": "Mike Olson",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2874,
+      "stop": 2898,
+      "customerStatementId": "e5a3d33d-e731-4a96-9e67-31574f210470",
+      "customerSpeakerId": "63aa1fa8-ee12-414b-ad0a-80b6caaeabc7"
+    },
+    {
+      "speaker": "Tim Cook",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2899,
+      "stop": 2956,
+      "customerStatementId": "c72a715d-772a-46a0-a8ea-ceb17f9be2ef",
+      "customerSpeakerId": "c7df068c-cd3c-4ff1-8a4a-b9af2c9804e3"
+    },
+    {
+      "speaker": "Raymond James",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2964,
+      "stop": 2989,
+      "customerStatementId": "8bc9da14-9cd3-482d-9ca1-bc1bcc847ab2",
+      "customerSpeakerId": "1bc7a172-b8c0-48a7-ad30-95ba3ccd9445"
+    },
+    {
+      "speaker": "Luca Maestri",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 2990,
+      "stop": 3048,
+      "customerStatementId": "9620e18b-9a9f-48a9-8b43-86f7b6eddec3",
+      "customerSpeakerId": "9e8eef53-d22f-42ce-93cb-246153fb21ac"
+    },
+    {
+      "speaker": "Raymond James",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 3049,
+      "stop": 3083,
+      "customerStatementId": "2e72ea7e-8f49-48b6-bba5-2efb8d546eae",
+      "customerSpeakerId": "1bc7a172-b8c0-48a7-ad30-95ba3ccd9445"
+    },
+    {
+      "speaker": "Luca Maestri",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 3084,
+      "stop": 3180,
+      "customerStatementId": "2f3578d2-5334-492f-a52b-0cc4bdf91040",
+      "customerSpeakerId": "9e8eef53-d22f-42ce-93cb-246153fb21ac"
+    },
+    {
+      "speaker": "Samik Chatterjee",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 3189,
+      "stop": 3209,
+      "customerStatementId": "8f00b815-e53f-4549-b7bd-6a5c626c58d8",
+      "customerSpeakerId": "42cc02dd-c604-4fa4-a1ff-275917c53381"
+    },
+    {
+      "speaker": "Tim Cook",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 3210,
+      "stop": 3227,
+      "customerStatementId": "a4e23a22-c5dd-40e4-ad1f-2b3affab018a",
+      "customerSpeakerId": "c7df068c-cd3c-4ff1-8a4a-b9af2c9804e3"
+    },
+    {
+      "speaker": "Samik Chatterjee",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 3228,
+      "stop": 3250,
+      "customerStatementId": "7ccfc0e0-7660-4d80-ab41-b6b22b726fd2",
+      "customerSpeakerId": "42cc02dd-c604-4fa4-a1ff-275917c53381"
+    },
+    {
+      "speaker": "Luca Maestri",
+      "section": "Q_AND_A",
+      "statement": "",
+      "type": "ANALYSIS",
+      "start": 3251,
+      "stop": 3347,
+      "customerStatementId": "b37124a6-e227-4324-9f0f-eda3f071d54f",
+      "customerSpeakerId": "9e8eef53-d22f-42ce-93cb-246153fb21ac"
+    }
+  ]
+}
