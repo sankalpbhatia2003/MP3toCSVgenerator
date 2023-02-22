@@ -1,22 +1,34 @@
 import pandas as pd
-import numpy as np
 import json
 
-df = pd.read_csv('new_test_sentence_pre_collapse.csv')
-df = df.reset_index(inplace=False)
-#df.set_index()
+df = pd.read_csv('audio.csv')
+try:
+    df = df.reset_index(inplace=False)
+except:
+    pass
 
-json_data = df.to_json(orient ='index' , indent=4)
-print(json_data)
+try:
+    df = df.drop(['Unnamed: 0'], axis=1)
+except:
+    pass
 
-json_object = json.loads(json_data)
-#print(json_object)
+try:
+    df = df.drop(['level_0'], axis=1)
+except:
+    pass
 
-#print(type(json_object))
-#print(json_object)
+try:
+    df = df.drop(['index'], axis=1)
+except:
+    pass
 
-#json_object.to_json(orient ='index', indent=4)
-#print(json_object)
+json_data = df.to_json(orient ='records' , indent=4)
 
-#edited_json_data = {"statements" : [json_data]}
-#print({"statements" : [json_data]})
+my_dict = {}
+my_dict["statements"] = json.loads(json_data)
+
+# Writing to audio.json
+with open('audio.json', "w") as outfile:
+    json.dump(my_dict, outfile)
+
+outfile.close()
