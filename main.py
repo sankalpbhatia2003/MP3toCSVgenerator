@@ -9,7 +9,7 @@ from nltk.tokenize.treebank import TreebankWordDetokenizer
 #section = str(input("What type of 'section' is the interview? Choose from: Q_AND_A or PREPARED_REMARKS: \n"))
 section = 'Q_and_A'
 
-DEEPGRAM_API_KEY = '' # Add your Deepgram's API key here
+DEEPGRAM_API_KEY = 'ddabd865a664dcc14f0f5f7adf3822359044eba1' # Add your Deepgram's API key here
 try:
     FILE = ''  #Add your MP3 file here
     MIMETYPE = 'audio/mp3' #wav
